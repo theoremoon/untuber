@@ -1,0 +1,5 @@
+dist/*
+!dist/poop
+node_modules
+.cache
+yarn-error.log
