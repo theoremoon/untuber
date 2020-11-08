@@ -1787,4 +1787,4 @@ var t,r=function(t){"use strict";var r,e=Object.prototype,n=e.hasOwnProperty,o="
 },{}],"Focm":[function(require,module,exports) {
 "use strict";var e=u(require("vue")),r=u(require("./App.vue"));function u(e){return e&&e.__esModule?e:{default:e}}require("regenerator-runtime/runtime"),new e.default({el:"#app",render:function(e){return e(r.default)}});
 },{"vue":"QPfz","./App.vue":"Js2s","regenerator-runtime/runtime":"QVnC"}]},{},["Focm"], null)
-//# sourceMappingURL=untuber/src.74274058.js.map
+//# sourceMappingURL=src.74274058.js.map
